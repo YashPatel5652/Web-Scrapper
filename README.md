@@ -104,8 +104,8 @@ This project is released under the **MIT License**. Feel free to modify and use 
 
 ## 🙋‍♂️ Author
 
-**[Your Name]**  
-Connect on [GitHub](https://github.com/YashPatel5652) | [LinkedIn](www.linkedin.com/in/yash-patel-bb2984303)
+**Yash Patel**  
+Connect with me on [LinkedIn](https://www.linkedin.com/in/yash-patel-bb2984303/) | [GitHub](https://github.com/YashPatel5652)
 
 ---
 
